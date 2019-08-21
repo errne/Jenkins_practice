@@ -5,3 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automagically"
 echo "this line should appear after commit without building in Jenkins2"
+echo "pushed from PC"
